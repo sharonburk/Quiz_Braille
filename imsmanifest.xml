@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6mCFyGRYskM_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Braille Quiz</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">This is a 5 question knowledge check of the basics of braille.</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Braille_Quiz_ORG">
+    <organization identifier="Braille_Quiz_ORG">
+      <title>Braille Quiz</title>
+      <item identifier="Drag_and_Drobo_SCO" isvisible="true" identifierref="__6mCFyGRYskM_course_id_RES">
+        <title>Braille Quiz</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6mCFyGRYskM_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/5XhRznVTOvY.html" />
+      <file href="mobile/5XhRznVTOvY5p3iVWmxshG{Width=686.2223, Height=386}Light.png" />
+      <file href="story_content/5nOjzEnpOK7.html" />
+      <file href="mobile/5nOjzEnpOK75pXAQe71sco{Width=667.5556, Height=375.5}Light.png" />
+      <file href="story_content/5cMeVSNImUL.html" />
+      <file href="mobile/5cMeVSNImUL6cl99XklkrF{Width=667.5555, Height=375.5}Light.png" />
+      <file href="mobile/6mzuxHOk0Ha.png" />
+      <file href="story_content/681N1c1PMbI.html" />
+      <file href="mobile/681N1c1PMbI5gjLoQtKhz1{Width=668, Height=375.75}Light.png" />
+      <file href="mobile/6OGq0k6hrpU.png" />
+      <file href="mobile/5f0aek2t8pp.png" />
+      <file href="story_content/60Udk6EzJxa.html" />
+      <file href="mobile/60Udk6EzJxa6oela1oQFwE{Width=667.5555, Height=375.5}Light.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide6JnAHGNnPdt.jpg" />
+      <file href="mobile/Slide5aLlGSlEQGD.jpg" />
+      <file href="mobile/Slide6ZkRg9nWhqQ.jpg" />
+      <file href="mobile/Slide6KnZgQH4mqO.jpg" />
+      <file href="mobile/Slide6i5RDJq0RBx.jpg" />
+      <file href="mobile/Slide625oBA5n0G8.jpg" />
+      <file href="mobile/Slide6HMGe98xdcl.jpg" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5h1pwz0LDkb.js" />
+      <file href="html5/data/js/6f9NhYioFnm.js" />
+      <file href="html5/data/js/6GIE48A0RYe.js" />
+      <file href="html5/data/js/6k1SPc2Kbw3.js" />
+      <file href="html5/data/js/6KBvpTsvfLL.js" />
+      <file href="html5/data/js/6LOdkJbJBVe.js" />
+      <file href="html5/data/js/6p6fAqoreQE.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
